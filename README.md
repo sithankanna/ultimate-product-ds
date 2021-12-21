@@ -57,6 +57,18 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 ## A/B Testing 
 
+* [Emma Ding: 7 A/B Testing Questions and Answers in Data Science Interviews](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) 
+* [Candor: A/B Test Interview Questions Asked at FANG](https://candor.co/articles/interview-prep/interview-tips-ab-testing-and-experiment-design)
+
+### Video Series
+* [Product Case Interviews Dos And Don'ts | Produce Sense | Data Science Interviews
+](https://www.youtube.com/watch?v=nPJKFWMiIC8&list=PLY1Fi4XflWStFs6tLQ3Gey2Aaq_U4-Xnc&index=3)
+
+
+### Product Sense
+
+* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 1)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) 
+* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 2)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f)
 
 
 ### Practicalities of A/B Testing
