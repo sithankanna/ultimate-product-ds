@@ -12,6 +12,9 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [PrepFully: Facebook Data Scientist](https://www.springboard.com/library/data-science/facebook-interview/)
 
 
+
+[How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
+
 ## Defining Metrics 
 
 * [Sequoia Series: Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
@@ -55,10 +58,22 @@ The Ultimate Product Data Science &amp; Analytics Resource
   * [Selecting the Right User Metric](https://medium.com/sequoia-capital/selecting-the-right-user-metric-de95015aa38)
   * [The laws of nature strongly influence product behavior](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 
+### Evaluating Recommender Systems
+* [ML Metrics for Recommendation Systems](https://medium.com/qloo/popular-evaluation-metrics-in-recommender-systems-explained-324ff2fb427d)
+* [Evaluating Recommendation Systems](https://medium.com/fnplus/evaluating-recommender-systems-with-python-code-ae0c370c90be) 
+
+
 ## A/B Testing 
 
 * [Emma Ding: 7 A/B Testing Questions and Answers in Data Science Interviews](https://towardsdatascience.com/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) 
 * [Candor: A/B Test Interview Questions Asked at FANG](https://candor.co/articles/interview-prep/interview-tips-ab-testing-and-experiment-design)
+
+
+### Udacity A/B Testing Course by Google 
+* [Udacity](https://www.udacity.com/course/ab-testing--ud257)
+* [Study Notes of Udacity A/B Testing](https://nancyyanyu.github.io/posts/17c5bb19/) 
+
+
 
 ### Video Series
 * [Product Case Interviews Dos And Don'ts | Produce Sense | Data Science Interviews
@@ -83,15 +98,12 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 
 ## Cohort Analysis
+[Cohort Analysis Using Python For Beginners- A Hands-On Tutorial](https://www.analyticsvidhya.com/blog/2021/06/cohort-analysis-using-python-for-beginners-a-hands-on-tutorial/)
 
 
 ## Growth Analytics
 
-
-## Product Ideas
-
-
-## Careers 
+## SQL for Product Analysis
 
 
-## Companies
+
