@@ -11,11 +11,15 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [JayFeng: The Facebook Data Scientist Interview](https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872)
 * [PrepFully: Facebook Data Scientist](https://www.springboard.com/library/data-science/facebook-interview/)
 
+#### SQL 
+* [Facebook SQL Questions](https://www.interviewquery.com/blog-facebook-sql-questions)
 
 
-[How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
 
 ## Defining Metrics 
+
+
+* [How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
 
 * [Sequoia Series: Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
   * [Evolution of a Product](https://medium.com/@sequoia/evolution-of-a-product-223ce35f2179)
@@ -104,6 +108,13 @@ The Ultimate Product Data Science &amp; Analytics Resource
 ## Growth Analytics
 
 ## SQL for Product Analysis
+* [StrataScratch](https://www.stratascratch.com/)
+* [Leetcode Databases](https://leetcode.com/problemset/database/)
+
+
+### Company Specific Questions
+* [Google SQL Questions](https://www.interviewquery.com/blog-google-sql-interview-questions)
+* [Amazon SQL Questions](https://www.interviewquery.com/blog-amazon-sql-interview-questions)
 
 
 
