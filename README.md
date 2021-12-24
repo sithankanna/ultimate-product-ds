@@ -4,14 +4,16 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 
 
-## Product Data Science Interviews 
+# Product Data Science Interviews 
 
-### Facebook Product Data Science
+## Facebook Product Data Science
+
+### Overview 
 * [iGotAnOffer: Facebook data scientist interview: the only post you'll need to read](https://igotanoffer.com/blogs/tech/facebook-data-scientist-interview) 
 * [JayFeng: The Facebook Data Scientist Interview](https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872)
 * [PrepFully: Facebook Data Scientist](https://www.springboard.com/library/data-science/facebook-interview/)
 
-#### SQL 
+### SQL Round 
 * [Facebook SQL Questions](https://www.interviewquery.com/blog-facebook-sql-questions)
 
 
@@ -20,6 +22,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 
 * [How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
+* [Neil Patel: How to Calculate LTV](https://neilpatel.com/blog/how-to-calculate-lifetime-value/)
 
 * [Sequoia Series: Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
   * [Evolution of a Product](https://medium.com/@sequoia/evolution-of-a-product-223ce35f2179)
