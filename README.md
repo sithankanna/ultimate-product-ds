@@ -28,7 +28,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 
 ### Probability & Quant Round
-
+* [40 Probability & Statistics Data Science Questions](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews)
 
 ## Defining Metrics 
 
@@ -89,7 +89,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 ### Udacity A/B Testing Course by Google 
 * [Udacity](https://www.udacity.com/course/ab-testing--ud257)
-* [Study Notes of Udacity A/B Testing](https://nancyyanyu.github.io/posts/17c5bb19/) 
+* [Study Notes - Udacity A/B Testing](https://nancyyanyu.github.io/posts/17c5bb19/) 
 
 
 ### Practicalities of A/B Testing
@@ -97,7 +97,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Guidelines for stopping an A/B Test](https://ux.stackexchange.com/questions/113212/guidelines-for-stopping-an-a-b-or-mvt-test-early-due-to-negative-metrics) 
 * [AaronDeFazio: How to do A/B testing with early stopping correctly](https://www.aarondefazio.com/tangentially/?p=83) 
 * [Early stopping in A/B testing](https://bytepawn.com/early-stopping-in-ab-testing.html)
-
+* [The pitfalls of A/B testing in social networks](https://tech.okcupid.com/the-pitfalls-of-a-b-testing-in-social-networks-17d631d7b20d)
 
 
 ## Funnel Analysis
@@ -119,6 +119,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 ## Question Bank
 [42 Data Science Product Interview Questions](https://www.stratascratch.com/blog/42-data-science-product-interview-questions/)
+[Facebook’s Data Science Interview Practice Problems](https://towardsdatascience.com/facebooks-data-science-interview-practice-problems-46c7263709bf)
 
 ## Root Cause Analysis
 [ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
