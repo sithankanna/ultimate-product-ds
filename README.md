@@ -31,8 +31,6 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [40 Probability & Statistics Data Science Questions](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews)
 
 ## Defining Metrics 
-
-
 * [How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
 * [Neil Patel: How to Calculate LTV](https://neilpatel.com/blog/how-to-calculate-lifetime-value/)
 * [Sequoia Series: Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
@@ -80,6 +78,12 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [ML Metrics for Recommendation Systems](https://medium.com/qloo/popular-evaluation-metrics-in-recommender-systems-explained-324ff2fb427d)
 * [Evaluating Recommendation Systems](https://medium.com/fnplus/evaluating-recommender-systems-with-python-code-ae0c370c90be) 
 
+## Root Cause Analysis
+* [ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
+
+## Tradeoffs
+* [iGotAnOfferTradeOffs](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions)
+* [Kano & RICE Frameworks](https://bootcamp.uxdesign.cc/answering-trade-off-in-pm-interviews-b3868bb1d482)
 
 ## A/B Testing 
 
@@ -117,13 +121,8 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Amazon SQL Questions](https://www.interviewquery.com/blog-amazon-sql-interview-questions)
 
 
-## Question Bank
-[42 Data Science Product Interview Questions](https://www.stratascratch.com/blog/42-data-science-product-interview-questions/)
-[Facebook’s Data Science Interview Practice Problems](https://towardsdatascience.com/facebooks-data-science-interview-practice-problems-46c7263709bf)
+## Question Banks
+* [42 Data Science Product Interview Questions](https://www.stratascratch.com/blog/42-data-science-product-interview-questions/)
+* [Facebook’s Data Science Interview Practice Problems](https://towardsdatascience.com/facebooks-data-science-interview-practice-problems-46c7263709bf)
 
-## Root Cause Analysis
-[ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
 
-## Tradeoffs
-[iGotAnOfferTradeOffs](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions)
-[Kano & RICE Frameworks](https://bootcamp.uxdesign.cc/answering-trade-off-in-pm-interviews-b3868bb1d482)
