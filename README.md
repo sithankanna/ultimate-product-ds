@@ -124,4 +124,5 @@ The Ultimate Product Data Science &amp; Analytics Resource
 [ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
 
 ## Tradeoffs
-[iGotAnOfferTradeOffs]https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions
+[iGotAnOfferTradeOffs](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions)
+[Kano & RICE Frameworks](https://bootcamp.uxdesign.cc/answering-trade-off-in-pm-interviews-b3868bb1d482)
