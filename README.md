@@ -1,4 +1,4 @@
-# Ultimate Product 
+# Ultimate Product Data Science Resources
 The Ultimate Product Data Science &amp; Analytics Resource
 
 
@@ -13,9 +13,21 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [JayFeng: The Facebook Data Scientist Interview](https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872)
 * [PrepFully: Facebook Data Scientist](https://www.springboard.com/library/data-science/facebook-interview/)
 
+
+### Product Sense
+
+* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 1)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) 
+* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 2)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f)
+
+#### Video Series
+* [Product Case Interviews Dos And Don'ts | Produce Sense | Data Science Interviews
+](https://www.youtube.com/watch?v=nPJKFWMiIC8&list=PLY1Fi4XflWStFs6tLQ3Gey2Aaq_U4-Xnc&index=3)
+
 ### SQL Round 
 * [Facebook SQL Questions](https://www.interviewquery.com/blog-facebook-sql-questions)
 
+
+### Probability & Quant Round
 
 
 ## Defining Metrics 
@@ -23,7 +35,6 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 * [How to crack product metric questions in PM interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions#metricqs)
 * [Neil Patel: How to Calculate LTV](https://neilpatel.com/blog/how-to-calculate-lifetime-value/)
-
 * [Sequoia Series: Data-Informed Product Building](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
   * [Evolution of a Product](https://medium.com/@sequoia/evolution-of-a-product-223ce35f2179)
   * [Measuring Product Health](https://medium.com/@sequoia/measuring-product-health-626b2186cece)
@@ -81,18 +92,6 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Study Notes of Udacity A/B Testing](https://nancyyanyu.github.io/posts/17c5bb19/) 
 
 
-
-### Video Series
-* [Product Case Interviews Dos And Don'ts | Produce Sense | Data Science Interviews
-](https://www.youtube.com/watch?v=nPJKFWMiIC8&list=PLY1Fi4XflWStFs6tLQ3Gey2Aaq_U4-Xnc&index=3)
-
-
-### Product Sense
-
-* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 1)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) 
-* [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 2)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f)
-
-
 ### Practicalities of A/B Testing
 
 * [Guidelines for stopping an A/B Test](https://ux.stackexchange.com/questions/113212/guidelines-for-stopping-an-a-b-or-mvt-test-early-due-to-negative-metrics) 
@@ -108,8 +107,6 @@ The Ultimate Product Data Science &amp; Analytics Resource
 [Cohort Analysis Using Python For Beginners- A Hands-On Tutorial](https://www.analyticsvidhya.com/blog/2021/06/cohort-analysis-using-python-for-beginners-a-hands-on-tutorial/)
 
 
-## Growth Analytics
-
 ## SQL for Product Analysis
 * [StrataScratch](https://www.stratascratch.com/)
 * [Leetcode Databases](https://leetcode.com/problemset/database/)
@@ -120,4 +117,11 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Amazon SQL Questions](https://www.interviewquery.com/blog-amazon-sql-interview-questions)
 
 
+## Question Bank
+[42 Data Science Product Interview Questions](https://www.stratascratch.com/blog/42-data-science-product-interview-questions/)
 
+## Root Cause Analysis
+[ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
+
+## Tradeoffs
+[iGotAnOfferTradeOffs]https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions
