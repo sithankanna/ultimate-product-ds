@@ -10,7 +10,6 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [JayFeng: The Facebook Data Scientist Interview](https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872)
 * [PrepFully: Facebook Data Scientist](https://www.springboard.com/library/data-science/facebook-interview/)
 
-
 ### Product Sense
 * [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 1)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-1-cb768c37edf4) 
 * [The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 2)](https://towardsdatascience.com/the-ultimate-guide-to-cracking-business-case-interviews-for-data-scientists-part-2-7bc38fbe635f)
@@ -62,7 +61,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 
 
 ## Funnel Analysis
-
+* [Funnel Analysis Examples and Case Studies in 5 Industries](https://amplitude.com/blog/funnel-analysis-in-five-industries)
 
 ## Cohort Analysis
 * [Cohort Analysis Using Python For Beginners- A Hands-On Tutorial](https://www.analyticsvidhya.com/blog/2021/06/cohort-analysis-using-python-for-beginners-a-hands-on-tutorial/)
@@ -86,4 +85,4 @@ The Ultimate Product Data Science &amp; Analytics Resource
 ## Product Design & Improvment 
 * [iGotAnOffer Product Improvement Questions](https://igotanoffer.com/blogs/product-manager/product-improvement-questions)
 * [iGotAnOffer Product Design Questions](https://igotanoffer.com/blogs/product-manager/product-design-questions)
-* [How to answer prouct Improvement Questions](https://www.mypminterview.com/p/how-to-answer-product-improvement-questions)
+* [How to answer Product Improvement Questions](https://www.mypminterview.com/p/how-to-answer-product-improvement-questions)
