@@ -1,5 +1,9 @@
-# Ultimate Product Data Science Resources
+# 🚀 The Ultimate Product Data Science Resources
 The Ultimate Product Data Science &amp; Analytics Resource
+
+
+> 👉 _If you’re looking to break into Product Data Science or are looking to make your next move, then check out the_ [The Product Data Science Newsletter](https://buttondown.email/product-data-science).
+
 
 # Product Data Science Interviews 
 
