@@ -2,7 +2,7 @@
 The Ultimate Product Data Science &amp; Analytics Resource
 
 
-> 👉 _If you’re looking to break into Product Data Science or are looking to make your next move, then check out the_ [The Product Data Science Newsletter](https://buttondown.email/product-data-science).
+> 👉 _Looking to break into Product Data Science or want to make your next move? Sign up to the_ [The Product Data Science Newsletter](https://buttondown.email/product-data-science) _to find out more_.
 
 
 # Product Data Science Interviews 
