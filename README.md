@@ -26,7 +26,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Facebook SQL Questions](https://www.interviewquery.com/blog-facebook-sql-questions)
 
 ### Probability & Quant Rounds
-* [40 Probability & Statistics Data Science Questions](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews)
+* [40 Probability & Statistics Data Science Questions](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
 * [Cracking the Facebook Data Scientist Interview - Quantitative Round](https://medium.com/@deepen.h.panchal/cracking-the-facebook-data-scientist-interview-part-2-cd3a8337c4af)
 
 ## Defining Metrics 
