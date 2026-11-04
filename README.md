@@ -40,7 +40,7 @@ The Ultimate Product Data Science &amp; Analytics Resource
 * [Evaluating Recommendation Systems](https://medium.com/fnplus/evaluating-recommender-systems-with-python-code-ae0c370c90be) 
 
 ## Root Cause Analysis
-* [ProductManagerHQ: Metric Change](https://productmanagerhq.com/product-manager-interview-analyze-a-metric-change/)
+* [ProductManagerHQ: Metric Change](https://producthq.org/career/product-manager-interview-questions/product-manager-interview-analyze-a-metric-change/)
 
 ## Tradeoffs
 * [iGotAnOfferTradeOffs](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions)
